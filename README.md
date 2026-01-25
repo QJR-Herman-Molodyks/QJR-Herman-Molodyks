@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @QJR-Herman-Molodyks
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and other languages
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning some programming languages
+- 💞️ I’m looking to collaborate with anyone.
+- 😄 Pronouns: he
 - ⚡ Fun fact: I have too many private repositories
+
+#### Languages, that i know:
+
+1. 🐍 Python
+2. 🖲️ C++
+3. 🕹️ C
+4. 🖥️ Assembly
+5. 💡 DoX
+6. 💾 Fortran
+7. 📟 Lua
+
+A some of then i know a little bit.
 
 <!---
 QJR-Herman-Molodyks/QJR-Herman-Molodyks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
