@@ -14,6 +14,7 @@
 5. 💡 DoX
 6. 💾 Fortran
 7. 📟 Lua
+8. 📦 Swift
 
 A some of then i know a little bit.
 
